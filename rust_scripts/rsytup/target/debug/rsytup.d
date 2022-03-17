@@ -1,0 +1,1 @@
+C:\Users\batmi\Desktop\projects\rust_scripts\rsytup\target\debug\rsytup.exe: C:\Users\batmi\Desktop\projects\rust_scripts\rsytup\src\date_compute.rs C:\Users\batmi\Desktop\projects\rust_scripts\rsytup\src\main.rs
